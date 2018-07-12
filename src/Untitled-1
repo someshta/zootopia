@@ -1,0 +1,57 @@
+,
+    {
+        "id": 4,
+        "name": "Panda",
+        "image": "https://s-media-cache-ak0.pinimg.com/originals/21/9e/09/219e0935eda027e98ed926576f42a493.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "Pug",
+        "image": "http://24.media.tumblr.com/d542c1d32855b5b1c35bc31e10be878a/tumblr_mkd241kQgx1qzfsnio7_1280.jpg",
+        "clicked": false
+    },
+    
+    {
+        "id": 6,
+        "name": "Guinea Pig",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1HZA3MRoFKYih1k7IpkQ52adI8KBbHu8m4tidYGPkVbs3Um_q",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "Tiger",
+        "image": "https://i0.wp.com/trendland.com/wp-content/uploads/2013/03/zoo-portraits-by-yago-partal-23.jpg?fit=600%2C600&ssl=1",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "Wildabeast",
+        "image": "http://www.placesamazing.com/wp-content/uploads/2014/12/Animals-Dressed-Like-Humans-5.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "Giraffe",
+        "image": "http://theinspirationgrid.com/app/uploads/2013/04/Zoo-Portraits-04.jpg",
+        "clicked": false
+    },
+    
+    {
+        "id": 10,
+        "name": "Monkey with big eyes",
+        "image": "https://www.yagopartal.com/wp-content/uploads/2017/11/Gray-handed-Night-Monkey-Aotus-Griseimembra-600x600.jpg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "Walrus",
+        "image": "http://www.tiragraffi.it/wp-content/uploads/2013/06/tumblr_mncoc9N7BO1s7aky5o1_1280.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "Koala",
+        "image": "https://i.pinimg.com/736x/29/08/3f/29083f7d931235b9cb56ae327d0ed6f1--cutest-animals-zoo-animals.jpg",
+        "clicked": false
+    }

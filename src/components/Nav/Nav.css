@@ -1,0 +1,17 @@
+.navbar{
+    font-family: Antic Slab;
+    width: 100%;
+    opacity: .7;
+}
+
+.nav-item{
+    opacity: 1;
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.navbar-brand {
+    font-size: 2rem;
+    font-weight: bold;
+    opacity: 1;
+}

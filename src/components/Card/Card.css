@@ -1,0 +1,35 @@
+
+.card {
+    border-radius: 2px;
+    height: 170px;
+    margin: 1.5rem 3rem 1.5rem 3rem;
+    position: relative;
+    display: inline-block;
+    width: 170px;
+    text-align: center;
+  }
+  
+  button{
+    height: 100%;
+    width: 100%;
+  }
+
+  button:active {
+    color: yellow;
+}
+
+  .card > .img-container {
+    height: 100%;
+    overflow: hidden;
+    
+  }
+  .card > .img-container > img {
+    width: 100%;
+    display: block;
+  }
+
+  img {
+    max-width: 100%;
+    max-height: 100%;
+  }
+
