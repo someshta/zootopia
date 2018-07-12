@@ -14,7 +14,7 @@ state = {
   score: 0,
   highscore: 0,
   cards: zooCards,
-  message: "Don't click on a city slicker more than once! Click to begin.",
+  message: "Don't choose a city slicker more than once! Click to begin.",
 }
 
 //shuffle cards in array
